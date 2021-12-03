@@ -11,4 +11,8 @@ public class testjavat {
 		System.out.println("왜 수정이 안돼");
 		
 	}
+	
+	public void test3() {
+		System.out.println("뭐람");
+	}
 }
