@@ -5,8 +5,10 @@ public class testjavat {
 		System.out.println("Hello Java World!!");
 	}
 	
-	@Override
-	public String toString() {
+
+	public void test() {
 		System.out.println("메소드 생성!");
+		System.out.println("왜 수정이 안돼");
+		
 	}
 }
